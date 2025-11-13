@@ -1,4 +1,4 @@
-# Container Scanning 2 - Annotation-Based Auto-Linking Demo
+# Container Scanning 2 - Annotation-Based Auto-Linking Demo - Yes
 
 This repository demonstrates **Arnica's annotation-based container-to-source auto-linking** for Node.js-based containers.
 
